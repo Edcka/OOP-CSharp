@@ -1,0 +1,10 @@
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\bin\Release\netcoreapp3.1\OOPLAB.exe
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\bin\Release\netcoreapp3.1\OOPLAB.deps.json
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\bin\Release\netcoreapp3.1\OOPLAB.runtimeconfig.json
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\bin\Release\netcoreapp3.1\OOPLAB.runtimeconfig.dev.json
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\bin\Release\netcoreapp3.1\OOPLAB.dll
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\bin\Release\netcoreapp3.1\OOPLAB.pdb
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\obj\Release\netcoreapp3.1\OOPLAB.AssemblyInfoInputs.cache
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\obj\Release\netcoreapp3.1\OOPLAB.AssemblyInfo.cs
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\obj\Release\netcoreapp3.1\OOPLAB.dll
+C:\Users\Dede\source\repos\OOPLAB\OOPLAB\obj\Release\netcoreapp3.1\OOPLAB.pdb

@@ -1,0 +1,9 @@
+[2020 15: 42:17] : Programa Ijunkta
+[2020 15: 42:59] : Programa Ijunkta
+[2020 15: 43:13] : Sukurta nauja paskyra : madagaskaro zebras
+[2020 15: 43:24] : Sukurta nauja paskyra : kavos puodelis
+[2020 15: 43:40] : Tikrinamas slaptazodis @ kavos
+[2020 15: 43:50] : Desifruoti visi slaptazodziai
+[2020 15: 44:04] : Uzdaroma programa
+[2020 11: 32:08] : Programa Ijunkta
+[2020 11: 35:10] : Sukurta nauja paskyra : Madagaskaro zebras
